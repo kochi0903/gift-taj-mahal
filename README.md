@@ -2,11 +2,6 @@
 
 A little moonlit world, made as a personal gift. Open an ivory envelope to reveal an illustrated Taj Mahal, discover a Hinglish note, and replay the surprise whenever you like.
 
-## Live website
-
-[Open Tumhara Taj Mahal](https://tumhara-taj-chaandni-31.pureswan.chatgpt.site/)
-
-The hosted website is a separately published version. Pushing changes to this GitHub repository does not automatically update that deployment.
 
 ## Features
 
